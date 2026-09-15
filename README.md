@@ -1,4 +1,5 @@
 # Multiplayer Cycling Simulator (Unity)
+I have had someone test the smartbike bluetooth integration shown with the video here: https://youtube.com/shorts/xb8rgwRXIuY
 
 A multiplayer cycling simulation built in Unity, featuring real-time Bluetooth Low Energy (BLE) smart trainer telemetry, spline-based movement mechanics, and client-authoritative multiplayer networking.
 
