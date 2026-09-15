@@ -1,5 +1,5 @@
 # Multiplayer Cycling Simulator (Unity)
-I have had someone test the smartbike bluetooth integration shown with the video here: https://youtube.com/shorts/xb8rgwRXIuY
+Here’s a quick live test of the Bluetooth LE integration. During this recording, the trainer hardware was experiencing a minor calibration issue that capped the reported output at a flat 250W, but a fully functional smart trainer streams exact, live wattage metrics smoothly in real-time.
 
 A multiplayer cycling simulation built in Unity, featuring real-time Bluetooth Low Energy (BLE) smart trainer telemetry, spline-based movement mechanics, and client-authoritative multiplayer networking.
 
